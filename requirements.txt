@@ -1,2 +1,2 @@
-moviepy
 TikTokApi
+python-dotenv
